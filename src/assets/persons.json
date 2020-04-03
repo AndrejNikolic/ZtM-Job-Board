@@ -11283,6 +11283,22 @@
         "state": "",
         "country": "Portugal"
       }
+    },
+    {
+    "id": 800,
+    "name": "Andrej Nikolić",
+    "img": "https://avatars1.githubusercontent.com/u/60146785",
+    "links": {
+      "website": "https://andrej.na.rs/",
+      "linkedin": "https://www.linkedin.com/in/andrej-nikolic/",
+      "github": "https://github.com/AndrejNikolic"
+    },
+    "jobTitle": "Web Developer",
+    "location": {
+      "city": "Varvarin",
+      "state": "",
+      "country": "Serbia"
     }
+  }
   ]
 }
